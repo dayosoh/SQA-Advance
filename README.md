@@ -1,6 +1,5 @@
 # SQA-Advance
 for NP SQA Advance course
 
-## Hello
-
-### TEsting
+If you are here, probably you lost. 
+Don't worry, you can just hit the cross button on yout browser.
